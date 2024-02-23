@@ -1,0 +1,7 @@
+#!/usr/bim/env bash
+# Script displays the statement 'To infinity and beyond' indefinitely
+
+while true; do
+	echo "To infinity and beyond"
+	sleep 2
+done
