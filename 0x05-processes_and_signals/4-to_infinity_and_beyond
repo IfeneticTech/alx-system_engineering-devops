@@ -1,4 +1,4 @@
-#!/usr/bim/env bash
+#!/usr/bin/env bash
 # Script displays the statement 'To infinity and beyond' indefinitely
 
 while true; do
